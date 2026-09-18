@@ -5,15 +5,19 @@ Academic Project impelmented as part of the CSCI 402 - Operating Systems, taught
 Welcome to the landing page for the Weenix OS project, a comprehensive operating system implemented as part of the CSCI 402 Operating Systems course at USC. Over the course of three assignments, a fairly complete OS with fully functioning Threads, Virtual File System (VFS), and Virtual Memory (VM) modules was developed.
 
 ## Table of Contents
-
+- [Disclaimer](#disclaimer)
 - [Introduction](#introduction)
 - [Project Structure](#project-structure)
 - [Implemented Modules](#implemented-modules)
   - [Threads](#threads)
   - [Virtual File System (VFS)](#virtual-file-system-vfs)
   - [Virtual Memory (VM)](#virtual-memory-vm)
-- [Screenshots](#screenshots)
-- [Disclaimer](#disclaimer)
+
+## Disclaimer
+
+This repository serves a landing page showcasing the work done during the Kernel Assignments in the CSCI 402 course. Source code is not publicly available following academic integrity guidelines, but a private demo can be provided upon request.
+
+Please feel free to reach out and request a private demo to explore this project further: chegurav@usc.edu
 
 ## Introduction
 
@@ -53,9 +57,3 @@ The VM module includes:
 - **Page Fault Handling**: Managing page faults and ensuring correct memory access.
 - **Anonymous and Shadow Objects**: Memory management techniques for efficient memory allocation.
 - **System Calls**: Implementing VM-related system calls, including the fork syscall.
-
-## Disclaimer
-
-This repository serves a landing page showcasing the work done during the Kernel Assignments in the CSCI 402 course. Source code is not publicly available following academic integrity guidelines, but a private demo can be provided upon request.
-
-Please feel free to reach out and request a private demo to explore this project further: chegurav@usc.edu
