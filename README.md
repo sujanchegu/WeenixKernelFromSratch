@@ -1,8 +1,8 @@
 # Weenix Kernel From Sratch - CSCI 402 Operating Systems.
 
-Academic Project impelmented as part of the CSCI 402 - Operating Systems, taught by 
+Academic Project impelmented as part of the CSCI 402 - Operating Systems, taught by Prof. William Cheng in Fall 2026 Semester.
 
-Welcome to the landing page for the Weenix OS project, a comprehensive operating system implemented as part of the CS402 Operating Systems course at USC. Over the course of three assignments, a fairly complete OS with fully functioning Threads, Virtual File System (VFS), and Virtual Memory (VM) modules was developed.
+Welcome to the landing page for the Weenix OS project, a comprehensive operating system implemented as part of the CSCI 402 Operating Systems course at USC. Over the course of three assignments, a fairly complete OS with fully functioning Threads, Virtual File System (VFS), and Virtual Memory (VM) modules was developed.
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ Welcome to the landing page for the Weenix OS project, a comprehensive operating
 
 ## Introduction
 
-Weenix OS is a Unix-like operating system originally created by the teaching assistants at Brown University to provide students with a hands-on experience in OS development. Our project is a continuation and expansion of this work, tailored to the curriculum of USC's CS402 course.
+Weenix OS is a Unix-like operating system originally created by the teaching assistants at Brown University to provide students with a hands-on experience in OS development. Our project is a continuation and expansion of this work, tailored to the curriculum of USC's CSCI 402 course.
 
 ## Project Structure
 
